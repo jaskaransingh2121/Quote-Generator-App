@@ -6,7 +6,7 @@ This app is built using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 🚀 Live Demo  
-[Click Here to View](https://your-live-demo-link.com) 
+[Click Here to View](https://quotastic-app.netlify.app/) 
 
 ---
 
